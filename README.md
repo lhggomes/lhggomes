@@ -42,7 +42,7 @@
 
 - 👨‍💻 **Django Intern Developer**\
 📆 2021 - Moment\
-📍 **<a href="https://www.jobconvo.com/">JobConvo Tecnologia</a>** - Belo Horizonte/MG, Brazil
+📍 **<a href="https://www.jobconvo.com/" target="_blank">JobConvo Tecnologia</a>** - Belo Horizonte/MG, Brazil
 
 <br>
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -53,13 +53,13 @@
 
 - 👨‍💻 **I.T Intern**\
 📆 2019 - Moment\
-📍 **Aperam South America** - Timoteo/MG, Brazil
+📍 **<a href="https://www.aperam.com/" target="_blank">Aperam South America</a>** - Timoteo/MG, Brazil
 
 <br>
 
 - 👨‍💻 **Supply analyst**\
 📆 2013 - 2019\
-📍 **Tudobom Comercial Eireli** - Coronel Fabriciano/MG, Brazil
+📍 **<a href="http://tudobom.com.br/" target="_blank">Tudobom Comercial Eireli</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
 
