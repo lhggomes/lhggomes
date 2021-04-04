@@ -18,9 +18,8 @@
  
 </div>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/lhggomes/lhggomes"></a> Nerds are come here o/
-</p>
+<p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/lhggomes/lhggomes"></a>
   
   ##
   
