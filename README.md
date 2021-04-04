@@ -42,7 +42,7 @@
 
 - 👨‍💻 **Django Intern Developer**\
 📆 2021 - Moment\
-📍 **JobConvo Tecnologia** - Belo Horizonte/MG, Brazil
+📍 **<a href="https://www.jobconvo.com/">JobConvo Tecnologia</a>** - Belo Horizonte/MG, Brazil
 
 <br>
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
