@@ -34,8 +34,7 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
+<p>
 - 👨‍💻 **Django Intern Developer**\
 📆 2021 - Moment\
 📍 **JobConvo Tecnologia** - Belo Horizonte/MG, Brazil
@@ -49,7 +48,7 @@
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
+</p>
 
 - 👨‍💻 **I.T Intern**\
 📆 2019 - Moment\
