@@ -54,13 +54,13 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - 👨‍💻 **I.T Intern**\
-📆 2019 - Moment\
+📆 2020 - Moment\
 📍 **<a href="https://www.aperam.com/" target="_blank">Aperam South America</a>** - Timoteo/MG, Brazil
 
 <br>
 
 - 👨‍💻 **Supply analyst**\
-📆 2013 - 2019\
+📆 2013 - 2021\
 📍 **<a href="http://tudobom.com.br/" target="_blank">Tudobom Comercial Eireli</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
