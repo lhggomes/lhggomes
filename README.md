@@ -31,7 +31,7 @@
 - 📖 **Information Systems (I.T)**\
 📆 2019 - 2022\
 📍 **Catholic University Center of Eastern Minas Gerais** - Coronel Fabriciano, Brazil
-
+<br>
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -40,28 +40,22 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<br>
-<br>
-
 - 👨‍💻 **Django Intern Developer**\
 📆 2021 - Moment\
 📍 **JobConvo Tecnologia** - Belo Horizonte/MG, Brazil
 
-
+<br>
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<br>
-<br>
-
 - 👨‍💻 **I.T Intern**\
 📆 2019 - Moment\
 📍 **Aperam South America** - Timoteo/MG, Brazil
 
-
+<br>
 
 - 👨‍💻 **Supply analyst**\
 📆 2013 - 2019\
