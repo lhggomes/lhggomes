@@ -1,8 +1,8 @@
 ## Hi! I'm Lucas ;) 
 
 <a href="https://github.com/lhggomes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=dark"/>
 
 <div style="display: inline_block">
 
@@ -54,13 +54,13 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - 👨‍💻 **I.T Intern**\
-📆 2019 - Moment\
+📆 2020 - Moment\
 📍 **<a href="https://www.aperam.com/" target="_blank">Aperam South America</a>** - Timoteo/MG, Brazil
 
 <br>
 
 - 👨‍💻 **Supply analyst**\
-📆 2013 - 2019\
+📆 2013 - 2021\
 📍 **<a href="http://tudobom.com.br/" target="_blank">Tudobom Comercial Eireli</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
