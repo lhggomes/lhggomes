@@ -1,8 +1,8 @@
 ## Hi! I'm Lucas ;) 
 
 <a href="https://github.com/lhggomes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lhggomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lhggomes&layout=compact&langs_count=8&theme=dracula"/>
 
 <div style="display: inline_block">
 <br>
@@ -15,9 +15,12 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center"  height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 
-  
  
 </div>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/lhggomes/lhggomes"></a> Nerds are come here o/
+</p>
   
   ##
   
