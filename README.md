@@ -31,7 +31,7 @@
 - 📖 **Information Systems (I.T)**\
 📆 2019 - 2022\
 📍 **Catholic University Center of Eastern Minas Gerais** - Coronel Fabriciano, Brazil
-<br>
+
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
