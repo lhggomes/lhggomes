@@ -38,13 +38,24 @@
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+- 👨‍💻 **Business Operation Analyst**\
+📆 2021 - Moment\
+📍 **<a href="https://www.accenture.com/" target="_blank">Accenture</a>** - Nova Lima/MG, Brazil
+
+<br>
+<img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
+    
 
 - 👨‍💻 **Django Intern Developer**\
-📆 2021 - Moment\
+📆 2021 - 2021(May)\
 📍 **<a href="https://www.jobconvo.com/" target="_blank">JobConvo Tecnologia</a>** - Belo Horizonte/MG, Brazil
 
 <br>
@@ -55,7 +66,7 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - 👨‍💻 **I.T Intern**\
-📆 2020 - Moment\
+📆 2020 - 2021(May)\
 📍 **<a href="https://www.aperam.com/" target="_blank">Aperam South America</a>** - Timoteo/MG, Brazil
 
 <br>
