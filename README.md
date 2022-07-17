@@ -43,7 +43,7 @@
 <img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-- 👨‍💻 **Business Operation Analyst**\
+- 👨‍💻 **Technology Transformation Senior Analyst**\
 📆 2021 - Moment\
 📍 **<a href="https://www.accenture.com/" target="_blank">Accenture</a>** - Nova Lima/MG, Brazil
 
