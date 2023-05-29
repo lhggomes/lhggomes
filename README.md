@@ -45,7 +45,7 @@
 
 - 👨‍💻 **Technology Transformation Senior Analyst**\
 📆 2021 - Moment\
-📍 **<a href="https://www.accenture.com/" target="_blank">Accenture</a>** - Nova Lima/MG, Brazil
+📍 **<a href="https://www.accenture.com/" target="_blank">Accenture</a>** - São Paulo/SP, Brazil
 
 <br>
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
