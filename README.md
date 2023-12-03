@@ -37,6 +37,18 @@
 
 ## Experience
 
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
+  <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+
+
+- 👨‍💻 **Software Developer II**\
+📆 2023 - Moment\
+📍 **<a href="https://www.nava.com.br/en/" target="_blank">Nava Technology 4 Business</a>** - São Paulo/SP, Brazil
+
+<br>
+
 <img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,7 +56,7 @@
 <img align="right" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 - 👨‍💻 **Technology Transformation Senior Analyst**\
-📆 2021 - Moment\
+📆 05/2021 - 06/2023\
 📍 **<a href="https://www.accenture.com/" target="_blank">Accenture</a>** - São Paulo/SP, Brazil
 
 <br>
@@ -52,10 +64,8 @@
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 
-    
-
 - 👨‍💻 **Django Intern Developer**\
-📆 2021 - 2021(May)\
+📆 01/2021 - 05/2021\
 📍 **<a href="https://www.jobconvo.com/" target="_blank">JobConvo Tecnologia</a>** - Belo Horizonte/MG, Brazil
 
 <br>
@@ -66,13 +76,13 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - 👨‍💻 **I.T Intern**\
-📆 2020 - 2021(May)\
+📆 02/2020 - 05/2021\
 📍 **<a href="https://www.aperam.com/" target="_blank">Aperam South America</a>** - Timoteo/MG, Brazil
 
 <br>
 
 - 👨‍💻 **Supply analyst**\
-📆 2013 - 2021\
+📆 10/2013 - 01/2021\
 📍 **<a href="http://tudobom.com.br/" target="_blank">Tudobom Comercial Eireli</a>** - Coronel Fabriciano/MG, Brazil
 
 </details>
