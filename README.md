@@ -37,11 +37,6 @@
 
 ## Experience
 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-  <img align="center" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
-
 
 - 👨‍💻 **Software Developer II**\
 📆 2023 - Moment\
